@@ -32,8 +32,8 @@ Follow these steps to set up and run the project locally:
     Clone project:
 
     ```bash
-    git clone 
-    cd todo_List
+    git clone https://github.com/jasonxiexy/todo_list.git
+    cd todo_list
     ```
 
 1. **Tidy Up Modules**
