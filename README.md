@@ -19,7 +19,7 @@ todo_List/
 ├── task.go       # defines task struct and task operations
 ├── storage.go    # load/save tasks from/to a JSON file
 ├── print.go      # functions to print the tasks
-└── tasks.json    # (auto-created when you run your program)
+└── tasks.json    # (auto-created when you run the program)
 ```
 
 
